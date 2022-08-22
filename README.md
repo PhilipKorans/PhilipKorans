@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhilipKorans
-- 👀 I’m interested in Full stack engineering
+- 👀 I’m interested in full stack engineering
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on various stages in software development
 - 📫 How to reach me 06koranteng@gmail.com
